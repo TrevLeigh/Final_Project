@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Final_Project: development" uuid="98021e3c-ef30-460d-b1a8-a0b2f00a287b">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+    <data-source name="Rails Final_Project: test" uuid="636e4a87-7060-474e-8c23-d7a71b06539c">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+    <data-source name="Rails Final_Project: production" uuid="df7fa9b8-04ed-4654-89f7-68b307440290">
+      <user-name>Final_Project</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfecdfe3dfe4dfebdfe6dff5dffadff8dfe5dfe0dfefdfe9dffedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
